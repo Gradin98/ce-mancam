@@ -1,0 +1,12 @@
+D:\projects\c#\CeMancamBackend\Provider\bin\Release\netcoreapp3.1\Provider.deps.json
+D:\projects\c#\CeMancamBackend\Provider\bin\Release\netcoreapp3.1\Provider.dll
+D:\projects\c#\CeMancamBackend\Provider\bin\Release\netcoreapp3.1\Provider.pdb
+D:\projects\c#\CeMancamBackend\Provider\bin\Release\netcoreapp3.1\Domain.dll
+D:\projects\c#\CeMancamBackend\Provider\bin\Release\netcoreapp3.1\Domain.pdb
+D:\projects\c#\CeMancamBackend\Provider\obj\Release\netcoreapp3.1\Provider.csproj.AssemblyReference.cache
+D:\projects\c#\CeMancamBackend\Provider\obj\Release\netcoreapp3.1\Provider.AssemblyInfoInputs.cache
+D:\projects\c#\CeMancamBackend\Provider\obj\Release\netcoreapp3.1\Provider.AssemblyInfo.cs
+D:\projects\c#\CeMancamBackend\Provider\obj\Release\netcoreapp3.1\Provider.csproj.CoreCompileInputs.cache
+D:\projects\c#\CeMancamBackend\Provider\obj\Release\netcoreapp3.1\Provider.csproj.CopyComplete
+D:\projects\c#\CeMancamBackend\Provider\obj\Release\netcoreapp3.1\Provider.dll
+D:\projects\c#\CeMancamBackend\Provider\obj\Release\netcoreapp3.1\Provider.pdb

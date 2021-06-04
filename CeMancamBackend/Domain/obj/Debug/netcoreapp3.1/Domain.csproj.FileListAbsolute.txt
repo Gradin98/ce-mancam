@@ -1,0 +1,12 @@
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache

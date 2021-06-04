@@ -1,0 +1,15 @@
+D:\projects\c#\CeMancamBackend\Provider\bin\Debug\net5.0\Provider.deps.json
+D:\projects\c#\CeMancamBackend\Provider\bin\Debug\net5.0\Provider.dll
+D:\projects\c#\CeMancamBackend\Provider\bin\Debug\net5.0\ref\Provider.dll
+D:\projects\c#\CeMancamBackend\Provider\bin\Debug\net5.0\Provider.pdb
+D:\projects\c#\CeMancamBackend\Provider\bin\Debug\net5.0\Domain.dll
+D:\projects\c#\CeMancamBackend\Provider\bin\Debug\net5.0\Domain.pdb
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\Provider.csproj.AssemblyReference.cache
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\Provider.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\Provider.AssemblyInfoInputs.cache
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\Provider.AssemblyInfo.cs
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\Provider.csproj.CoreCompileInputs.cache
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\Provider.csproj.CopyComplete
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\Provider.dll
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\ref\Provider.dll
+D:\projects\c#\CeMancamBackend\Provider\obj\Debug\net5.0\Provider.pdb

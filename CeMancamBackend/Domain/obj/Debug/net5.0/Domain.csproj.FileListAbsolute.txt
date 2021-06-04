@@ -1,0 +1,15 @@
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\net5.0\Domain.dll
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\projects\c#\CeMancamBackend\Domain\bin\Debug\net5.0\Domain.pdb
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\Domain.dll
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\Domain.pdb
+D:\projects\c#\CeMancamBackend\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache

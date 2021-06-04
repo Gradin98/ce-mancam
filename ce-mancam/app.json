@@ -1,0 +1,15 @@
+{
+  "name": "ce-mancam",
+  "displayName": "ce-mancam",
+  "expo": {
+    "name": "ce-mancam",
+    "slug": "ce-mancam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "android.lorand.com"
+    }
+  }
+}
